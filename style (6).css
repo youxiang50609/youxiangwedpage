@@ -1,0 +1,52 @@
+/* ↓全部置中 */
+ * {
+   text-align: center;
+ }
+  /* ↓調整a標籤樣式 */
+   a {
+       text-decoration:none;
+ color:#FF0000;
+  font-size:13px;
+   }
+    /* ↓調整hr標籤樣式 */
+     hr {
+        margin:2px 99px 20px 99px;
+     }
+      /* ↓調整h2標籤樣式 */
+      h2 {
+        font-size:16px;
+         color:rgba(255, 131, 0, 1);
+                     
+      }
+       /* ↓調整button標籤樣式 */
+      button {
+        font-size:9px;
+         margin:5px;
+         background-color:rgba(255, 255, 255, 0.53);
+             border-radius:6px;
+             padding:0px 3px 5px 3px;
+             padding-top:5px;
+      }
+       /* ↓調整body標籤樣式 */
+        body {
+          background-color:#00FFEE;
+          background-size:9px;
+        }
+         
+       /* ↓調整頁尾樣式 */
+        fieldset {
+          background-color:#000000;
+          margin:77px -3px -4px -12px;
+           color:rgb(255,255,255,0.4);
+           font-size:5px;
+               width:100%;
+        bottom:0px;
+    position:fixed;
+    padding:2px;
+        }
+      .class {
+      text-align:left;
+      }
+         
+        
+           
